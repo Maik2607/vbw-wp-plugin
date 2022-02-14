@@ -1,0 +1,53 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+/* .vb_container_position{
+    width: 40%;
+}
+.vb_container_2{
+    width: 40%;
+    margin-top: 30px;
+}
+.vb_container_3{
+    width: 40%;
+    margin-top: 30px;
+}
+.vb_container_checkbox1{
+    width: 40%;
+    margin-top: 30px;
+}
+.vb_inputfield{
+    float: right;
+} */
+.vb_dropdown{
+    width: 25em;
+    position: relative;
+    left: 100px;
+}
+th{
+    vertical-align: baseline;
+    float: left;
+}
+tr{
+    position: relative;
+    top: 20px;
+}
+.vb_textfield_header{
+    vertical-align: top;
+}
+.vb_textfield{
+    width: 25em;
+    margin-top: 20px;
+    position: relative;
+    left: 100px;
+}
+.vb_checkbox{
+    margin-top: 20px;
+    position: relative;
+    left: 100px;
+}
+.vb_lg_textfield{
+    position: relative;
+    left: 100px;
+}
